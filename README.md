@@ -49,29 +49,12 @@ Employee-Management-System
 
 ---
 
-## ▶️ How to Run the Project
 
-### Step 1: Clone the Repository
-
-```
-git clone https://github.com/yourusername/Employee-Management-System.git
-```
-
-### Step 2: Navigate to the Project Folder
-
-```
-cd Employee-Management-System
-```
-
-### Step 3: Run the Python File
-
-```
-python ems.py
 ```
 
 ---
 
-## 💻 Example Menu
+## 💻 Example Menu 
 
 ```
 ===== Employee Management System =====
@@ -82,30 +65,15 @@ python ems.py
 4. Exit
 ```
 
----
-
 ## 📊 Sample Employee Data Format
 
-```
 {
 101: {'name': 'Satya', 'age': 27, 'department': 'HR', 'salary': 50000}
 }
 ```
 
----
-
-## 🚀 Future Improvements
-
-* Update employee information
-* Delete employee records
-* Store data using CSV or database
-* Build a GUI using Tkinter
-* Create a web version using Streamlit
-
----
-
 ## 👨‍💻 Author
 
 Biswa
-Aspiring Data Scientist | AI Enthusiast
+Aspiring Data Scientist | AI Engineer
 
